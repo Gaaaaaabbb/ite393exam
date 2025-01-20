@@ -6,12 +6,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/upangloginbg"
-    tools:context=".schoolmap2">
+    tools:context=".SchoolMap2">
 
     <Button
         android:id="@+id/schoolmapnext"
         android:layout_width="126dp"
-        android:layout_height="42dp"
+        android:layout_height="48dp"
         android:backgroundTint="#3A4F26"
         android:fontFamily="@font/koh_santepheap_bold"
         android:text="Next"
@@ -25,7 +25,7 @@
     <Button
         android:id="@+id/schoolmapprev"
         android:layout_width="126dp"
-        android:layout_height="42dp"
+        android:layout_height="48dp"
         android:backgroundTint="#3A4F26"
         android:fontFamily="@font/koh_santepheap_bold"
         android:text="Prev"
