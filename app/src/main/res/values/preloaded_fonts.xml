@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/koh_santepheap</item>
+        <item>@font/koh_santepheap_bold</item>
+        <item>@font/koh_santepheap_thin</item>
+    </array>
+</resources>
